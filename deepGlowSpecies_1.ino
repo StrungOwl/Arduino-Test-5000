@@ -2,6 +2,7 @@
 #include "Wire.h"
 
 //make a change 
+//made anohter change <<< who spelling
 
 //LED SETUP
 #define LED_PIN     3
